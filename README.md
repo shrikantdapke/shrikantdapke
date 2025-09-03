@@ -11,16 +11,11 @@ I'm **Shrikant Dapke**, a final year engineering student with a strong passion f
 
 ### 🌱 I’m currently learning:
 - Advanced backend development using Node.js and Express
-- System design fundamentals
 - Optimized DSA techniques
 
 ### 👯 I’m looking to collaborate on:
 - Full-stack web development projects
 - Open-source contributions related to Java or JavaScript
-
-### 🤔 I’m looking for help with:
-- Cracking technical interviews and improving system design skills
-
 ### 💬 Ask me about:
 - Java | DSA | MERN stack | Git | REST APIs
 
